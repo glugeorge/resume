@@ -4,3 +4,6 @@
 
 ## Education
 [University of Toronto](https://www.utoronto.ca/)
+
+## Research Interests
+I am particularly interested in understanding glacial hydrology and the stability of ice sheets, so I am consequently studying supraglacial lake drainage in Greenland. 
